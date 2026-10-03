@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of azonwan/auth-qq.** Not for installation: use [Packagist](https://packagist.org/packages/azonwan/auth-qq) or the [upstream repository](https://github.com/azonwan/azonwan-auth-qq).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/azonwan-auth-qq/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/azonwan-auth-qq/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-01-27 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/azonwan-auth-qq/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/azonwan-auth-qq.json](https://github.com/flarchive/archive-index/blob/main/packages/azonwan-auth-qq.json)
 
